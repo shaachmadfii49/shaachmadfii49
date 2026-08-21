@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 data-importer="text" align="left"></h2>
 
 ###

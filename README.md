@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 2026<br>📚 I'm currently learning Programming, Networking, & Web Development<br>🎯 Goals: Become a skilled IT developer<br>🎲 Fun fact: I like Manchester United</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2026<br>📚 I'm currently learning Programming, Networking, & Web Development<br>🎯 Goals: Become a skilled IT developer<br>🎲 Fun fact: I like Network</p>
 
 ###
 

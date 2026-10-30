@@ -19,13 +19,21 @@ My name is **Keisha Achmad Fiandika Putera**, and I'm an Information Technology 
 ## Certifications & Achievements
 
 🏅 **MikroTik Certified Network Associate (MTCNA)** – MikroTik (2026)
+
 🏅 **Associate Network Administrator (Digital Talent Academy)** – Digital Talent Scholarship (2026)
+
 🏅 **Certificate of Competence – Network Administrator** – LSP Telematika Profesional Indonesia (2026)
+
 🏅 **Introduction to IoT and Digital Transformation** – Cisco Networking Academy (2026)
+
 🏅 **Belajar Dasar Visualisasi Data** – Dicoding Indonesia (2026)
+
 🏅 **KiDi IoT** – Telkom Indonesia (2025)
+
 🏅 **Internship Certificate** – SMK Negeri 1 Sedayu (2025)
+
 🏅 **Front-End Web Developer – Belajar Dasar AI** – Dicoding Indonesia (2024)
+
 🏅 **Front-End Web Developer – Belajar Dasar Pemrograman Web** – Dicoding Indonesia (2024)
 
 ###
